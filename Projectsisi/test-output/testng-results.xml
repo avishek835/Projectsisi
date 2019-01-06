@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17476" started-at="2018-12-30T14:59:54Z" finished-at="2018-12-30T15:00:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17476" started-at="2018-12-30T14:59:54Z" finished-at="2018-12-30T15:00:11Z">
+      <class name="allModuleTestCases.About">
+        <test-method status="PASS" signature="setup()[pri:0, instance:allModuleTestCases.About@3e57cd70]" name="setup" is-config="true" duration-ms="5017" started-at="2018-12-30T14:59:54Z" finished-at="2018-12-30T14:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="contact()[pri:0, instance:allModuleTestCases.About@3e57cd70]" name="contact" duration-ms="12027" started-at="2018-12-30T14:59:59Z" finished-at="2018-12-30T15:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:allModuleTestCases.About@3e57cd70]" name="cleanup" is-config="true" duration-ms="385" started-at="2018-12-30T15:00:11Z" finished-at="2018-12-30T15:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- allModuleTestCases.About -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
